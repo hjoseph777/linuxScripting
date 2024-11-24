@@ -15,7 +15,8 @@ This script prompts the user to enter a username and password, then validates th
 
 
 ## Main Screenshot
-![Main Screenshot](MainScreenshotlab7.png)
+![Main Screenshot](MainScreenshotLab7.png)
+
 
 ## Author Harry Joseph
 -[Git Harry Joseph](https://github.com/hjoseph777)
