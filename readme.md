@@ -18,6 +18,6 @@ This script prompts the user to enter a username and password, then validates th
 ![Main Screenshot](MainScreenshotlab7.png)
 
 ## Author Harry Joseph
-- [Harry Joseph](https://github.com/hjoseph777)
+-[Git Harry Joseph](https://github.com/hjoseph777)
 
 ## date 2024-11-24
